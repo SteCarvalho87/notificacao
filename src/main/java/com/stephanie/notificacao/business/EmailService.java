@@ -3,7 +3,6 @@ package com.stephanie.notificacao.business;
 import com.stephanie.notificacao.business.dto.TarefasDTO;
 import com.stephanie.notificacao.infrastruture.exceptions.EmailException;
 import jakarta.mail.MessagingException;
-import jakarta.mail.internet.AddressException;
 import jakarta.mail.internet.InternetAddress;
 import jakarta.mail.internet.MimeMessage;
 import lombok.RequiredArgsConstructor;
