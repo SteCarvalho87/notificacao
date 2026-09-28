@@ -35,3 +35,9 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# Variáveis de ambiente
+.env
+
+# Build
+target/
